@@ -13,7 +13,7 @@
 
 // let Numbers = [];
 // for (let i = 0; i < 5; i++) {
-//     randomNumbers.push(Math.floor(Math.random() * 100) + 1);
+//     Numbers.push(Math.floor(Math.random() * 100) + 1);
 // }
 // let total = Numbers.reduce((x, y) => x + y, 0);
 // console.log(" təsadüfi ədədlərin cəmi:", total);
